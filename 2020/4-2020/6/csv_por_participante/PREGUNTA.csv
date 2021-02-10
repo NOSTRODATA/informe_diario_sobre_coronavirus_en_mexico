@@ -1,0 +1,62 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA, Atención en consulta externa donde no se atiende a pacientes por COVID-19.,0.0,12,6,04,2020
+PREGUNTA,"Como médico de consulta externa, tu labor para la atención del paciente es muy valiosa. Recuerda siempre portar tu uniforme institucional y gafete de identificación.",0.0,25,6,04,2020
+PREGUNTA,"Si eres mujer debes tener las uñas cortas sin esmalte y sin maquillaje, cabello recogido o recortado. Si eres hombre, que sea preferentemente sin barba ni bigote y con uñas cortas y cabello recortado.",0.0,34,6,04,2020
+PREGUNTA,"Recuerda no usar artículos personas como anillos, aretes, pulseras, reloj, collares o cadenas.",0.0,13,6,04,2020
+PREGUNTA,Evita el uso del celular durante la consulta.,0.0,8,6,04,2020
+PREGUNTA,"Antes y después de atender a un paciente, es importante que realices el procedimiento de higiene de manos con agua y jabón durante al menos 40 segundos o con solución base alcohol a 70 por ciento durante 20 segundos, de acuerdo con lo establecido con la Organización Mundial de la Salud.",0.0,51,6,04,2020
+PREGUNTA,Recuerda mantener la sana distancia de al menos metro y medio del paciente y utiliza un cubrebocas quirúrgico.,0.0,18,6,04,2020
+PREGUNTA,"La técnica para colocar el cubrebocas quirúrgico es la siguiente: revisa cuál es el lado correcto, las costuras gruesas corresponden a la parte interna del cubrebocas quirúrgico. Sujeta las cintas elásticas y pásalas por detrás de la cabeza o de las orejas de acuerdo al modelo.",0.0,46,6,04,2020
+PREGUNTA,"Es muy importante que tus manos no toquen la parte interna, debe quedar completamente ajustado a tu cara cubriendo la nariz y boca.",0.0,23,6,04,2020
+PREGUNTA,"Evita tocar el cubrebocas quirúrgico mientras lo traes puesto. Si es necesario, ajustarlo. Durante tu jornada laboral realiza higiene de manos con solución base alcohol al 70 por ciento o con agua y jabón. Debes traer el cubrebocas quirúrgico durante toda tu jornada laboral. Aunque traigas el cubrebocas quirúrgico, tapa boca y nariz al toser o estornudar con el ángulo interno del brazo.",0.0,63,6,04,2020
+PREGUNTA,"Evitar traer el cubrebocas en el cuello, en la cabeza o en algún otro lugar.",0.0,15,6,04,2020
+PREGUNTA,"Para retirar el cubrebocas quirúrgico debes realizar la técnica correcta de higiene de manos, cuidadosamente toma el resorte o cintillas elásticas por detrás de la cabeza y estíralas para facilitar el retiro. Es importante que no toques la parte externa, deséchalo inmediatamente en el bote de basura. Es recomendable que reemplaces la mascarilla cuando esté húmeda, rota o haya sufrido algún desperfecto.",0.0,62,6,04,2020
+PREGUNTA,"Después de retirar el cubrebocas quirúrgico, realiza higiene de manos con agua y jabón o solución base alcohol al 70 por ciento.",0.0,22,6,04,2020
+PREGUNTA,Este material es el específico y adecuado para las actividades que desempeñas en tu área de trabajo. Es muy importante emplearlo adecuadamente y no usar modificaciones o variantes de este último.,0.0,31,6,04,2020
+PREGUNTA,"En caso de que realices exploración física del paciente, es necesario hacer higiene de manos con agua y jabón o solución base alcohol al 70 por ciento en los cinco momentos de la atención.",0.0,34,6,04,2020
+PREGUNTA,Al salir de tu lugar de trabajo no portes uniforme institucional. Colócalo en una bolsa de plástico cerrada.,0.0,18,6,04,2020
+PREGUNTA," Buenas tardes. Juan Hernández, del periódico Basta y Grupo Cantón.",0.0,10,6,04,2020
+PREGUNTA,"Serían dos preguntas en específico, así concretitas.",0.0,7,6,04,2020
+PREGUNTA,"La primera: ¿qué procedimientos se deben de seguir, precisamente la Secretaría de Seguridad capitalina, en este caso las corporaciones policíacas debido al caso de que hoy se ha dado a conocer, que hay nueve infectados por coronavirus y, de hecho el día de ayer que muere el policía, no se sabía que había muerto por coronavirus. ¿Qué se tiene que hacer en esos casos?",0.0,64,6,04,2020
+PREGUNTA,"Y la segunda, creo que no sé si ya la han preguntado aquí sobre el tratamiento para las personas que fallecen. ¿Qué es lo que se tiene que hacer?, ¿cómo se le debe de dar tratamiento?",0.0,36,6,04,2020
+PREGUNTA,"Hay quejas de que las funerarias no están admitiendo a las personas que han fallecido, entonces es una queja que ha pasado como en otros países.",0.0,26,6,04,2020
+PREGUNTA,¿Cómo ustedes van a capacitar precisamente a esta área de la lo que es servicios funerarios precisamente para que no haya este atentado contra los derechos humanos de las personas de los deudos?,0.0,33,6,04,2020
+PREGUNTA,Gracias.,0.0,1,6,04,2020
+PREGUNTA, ¿Qué se tiene que hacer?,0.0,5,6,04,2020
+PREGUNTA," La segunda, la Secretaría de Seguridad Ciudadana.",0.0,7,6,04,2020
+PREGUNTA," Buenas noches, del periódico La Jornada.",0.0,6,6,04,2020
+PREGUNTA,Yo quisiera aprovechar que está el doctor Borja y preguntarle qué noticias tiene de Baja California. Hoy llegó información de que ya están siendo rebasados los servicios hospitalarios en esa entidad por enfermos con coronavirus.,0.0,35,6,04,2020
+PREGUNTA,"Y doctor López-Gatell, quisiera abordar un tema sobre la cantidad de personas que han fallecido por esta enfermedad. Aquí solamente se habla de las comorbilidades asociadas. Mi pregunta es: ¿hay una cantidad de personas que hayan muerto sin haber tenido estas enfermedades de riesgo o no ser adultos mayores?, porque presentado así, lo que me han comentado es que da la impresión de que sólo se tienen que preocupar por la enfermedad y las complicaciones quienes se sepan con diabetes, bueno, con todas las condiciones, pero quienes se crean que no tengan esta condición pueden pensar que no están en riesgo. No sé si esta información usted me la pudiera compartir.",0.0,111,6,04,2020
+PREGUNTA,"Y de los fallecimientos, ¿todos han ocurrido en algún hospital o es posible que algunas personas hayan perdido la vida afuera de los hospitales?",0.0,24,6,04,2020
+PREGUNTA,"Una última cosa, discúlpeme, la hidroxicloroquina, que está agotada, está próxima a volver al mercado, según ha comentado el fabricante. ¿Hay ya disposiciones de la secretaría del gobierno federal para regular la venta de este producto?, porque hoy cualquiera que vaya y lo pida se lo dan, si hubiera, pero cuando haya va a pasar.",0.0,55,6,04,2020
+PREGUNTA," Gracias, buenas tardes. Arely Villalobos, del Sistema Público de Radiodifusión.",0.0,10,6,04,2020
+PREGUNTA,"Dos preguntas. La primera, quiero saber a la fecha cuántos laboratorios privados u hospitales privados han sido sancionados por promocionar o aplicar pruebas para detectar COVID-19 sin tener el registro o cumplir con la normativa del Indre.",0.0,37,6,04,2020
+PREGUNTA,Y que nos actualice los datos de a la fecha: ¿cuántos hospitales públicos y laboratorios privados pueden aplicarlas y cuentan con la autorización del Indre?,0.0,25,6,04,2020
+PREGUNTA,"Esa sería una primera pregunta y, si me permite, hago otra.",0.0,11,6,04,2020
+PREGUNTA, ¿Y para conocer justamente los laboratorios que han sido sancionados?,0.0,10,6,04,2020
+PREGUNTA,"Esto lo digo porque la semana pasada conocimos de un caso de un laboratorio que promocionaba pruebas vía WhatsApp. Este laboratorio entiendo que fue sancionado, que dejó de hacerlo, pero quisiera conocer el listado o la institución que se encarga de dar a conocer estos datos.",0.0,46,6,04,2020
+PREGUNTA," Y ya, por último, la segunda pregunta, ayer también se dio a conocer que un zoológico de Nueva York, en Estados Unidos, determinó que algunos felinos, al menos seis felinos dieron positivo a la prueba de COVID-19.",0.0,37,6,04,2020
+PREGUNTA,"Esto, de ser verdad, el virus se puede transmitir a animales. ¿Cómo cambiaría el protocolo para evitar este tipo de transmisión?, y si en México se están haciendo algún tipo de vigilancia animal, también, para detectar ese tipo de casos. Gracias.",0.0,41,6,04,2020
+PREGUNTA," Hola, buenas noches. Tere Moreno, de El Universal.",0.0,8,6,04,2020
+PREGUNTA,"Primero que nada, doctor, hoy la Facultad de Medicina de la UNAM decide retirar a sus internos de hospitales, institutos de salud pública, señala que no hay capacitación para ellos y que tampoco hay equipo de protección suficiente; los van a retirar hasta que no haya condiciones para que regresen a trabajar. Si nos pudiera dar un comentario sobre esta situación.",0.0,61,6,04,2020
+PREGUNTA,"También hoy por la mañana el presidente menciona que se podría solicitar el apoyo de médicos cubanos para México, para apoyar a México en esta contingencia. Si ya existe un proyecto concreto o una solicitud formal del gobierno mexicano, ¿y por qué hacer esta solicitud?, si en México faltan especialistas.",0.0,50,6,04,2020
+PREGUNTA,"Y al doctor si nos pudiera, por favor, detallar un poco más sobre estas agresiones. Ya ha habido, hemos visto amenazas en redes sociales, distintas noticias, pero si ya ha habido agresiones físicas directas al personal de salud del IMSS y también de las otras instituciones.",0.0,46,6,04,2020
+PREGUNTA,Gracias.,0.0,1,6,04,2020
+PREGUNTA, Médicos cubanos.,0.0,2,6,04,2020
+PREGUNTA," Gracias. Buenas noches. Bianca Aguirre, de Notimex TV.",0.0,8,6,04,2020
+PREGUNTA,"Algo muy importante. ¿El Metro va a bajar el flujo de trenes?, ¿hay un plan de contingencia antes de la fase 3 o para la fase 3? Esa sería una pregunta.",0.0,31,6,04,2020
+PREGUNTA,"Y otra, hay un problema de salud pública desde hace muchos años, que es que la gente escupe en la calle, y no solamente en la calle, sino también en el transporte. ¿Esto es un medio de contagio en este momento de la pandemia?",0.0,44,6,04,2020
+PREGUNTA,Gracias.,0.0,1,6,04,2020
+PREGUNTA," Gracias, buenas noches. Paola Betancourt, del Multimedios Televisión.",0.0,8,6,04,2020
+PREGUNTA,"Mi primera pregunta es para el doctor Víctor Hugo Borja. Quisiera preguntarle qué está pasando con los insumos de los médicos, ya que incluso el día de hoy pudimos ver una protesta justamente en el hospital 76 del IMSS. ¿Qué está pasando con los insumos para los médicos para que puedan estar protegidos?",0.0,53,6,04,2020
+PREGUNTA,"También, subsecretario Gatell, quisiera preguntarle sobre la reunión que tuvo hace unos días, que fue una reunión virtual con gobernadores, con el canciller, con la secretaria de Gobernación, si se llegó a algunas medidas homologadas en todos los estados justamente para afrontar la pandemia.",0.0,44,6,04,2020
+PREGUNTA,"Y, finalmente, después del 30 de abril ¿qué panorama podríamos esperar?, ¿se irán retomando actividades o quizás se tomarán medidas más estrictas?",0.0,22,6,04,2020
+PREGUNTA,Estas son mis preguntas.,0.0,4,6,04,2020
+PREGUNTA, ¿Pero hubo algunas medidas homologadas para que todos los estados tomen estas mismas medidas o cada estado decidirá cómo actuar ante la pandemia?,0.0,23,6,04,2020
+PREGUNTA," Y sobre el panorama que podemos esperar después del 30 de abril, si quizás haya medidas más restrictivas o qué podemos esperar para después.",0.0,24,6,04,2020
+PREGUNTA," Sí, sí, sería muy rápido.",0.0,5,6,04,2020
+PREGUNTA,"Doctor Borja, ¿a partir de esta pandemia cuántas consultas han recibido?, ¿cuántas incapacidades se han generado a partir de esta herramienta digital?, si hay saturación o no ahorita.",0.0,28,6,04,2020
+PREGUNTA,"Y doctor Gatell, nos enteramos o documentaron un caso en Oaxaca de un delegado que se escapó siendo positivo de COVID, y no solamente se escapó, sino que escupió a los pacientes, escupió a las personas que están ahí por no dar un trato preferencial. Esto fue en un hospital regional del Issste. Saber qué nos puede decir al respecto.",0.0,60,6,04,2020
+PREGUNTA,"Y al doctor Alomía, estas tres personas que no forman parte de las personas crónicas que no tienen… ¿por qué fallecieron?, es decir, ¿cuál fue el factor que detonó?, ¿se tardaron o qué pasó?",0.0,34,6,04,2020
+PREGUNTA,Gracias.,0.0,1,6,04,2020
+PREGUNTA, (inaudible),0.0,1,6,04,2020

@@ -1,0 +1,48 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Gracias, doctor. Preguntarle sobre el avión que va a aterrizar, a las 9:00 de la noche tenemos el horario. ¿Exactamente qué trae?, ¿cuál es la cantidad que trae?, ¿trae ventiladores?, ¿qué tipo de insumos?",0.0,34,7,04,2020
+PREGUNTA,"Y si es la única compra que se va a hacer, si tiene pensado hacer a ese y a otros países.",0.0,21,7,04,2020
+PREGUNTA,"Preguntarle sobre este proyecto de resolución que ante la ONU propuso México, que haya acceso efectivo a medicinas, equipo y vacunas. ¿Esta compra que se hace es en este marco?, y si no lo es, ¿Cómo va esta propuesta que hizo México?",0.0,42,7,04,2020
+PREGUNTA,"Y preguntarle al doctor ¿cuántos hoteles COVID hay?, ¿cómo es su funcionamiento?",0.0,12,7,04,2020
+PREGUNTA,Gracias.,0.0,1,7,04,2020
+PREGUNTA, ¿Es lo que se presentó en la mañana?,0.0,8,7,04,2020
+PREGUNTA, ¿Sólo es en China que están…?,0.0,6,7,04,2020
+PREGUNTA, (inaudible),0.0,1,7,04,2020
+PREGUNTA," ¿Cómo se comprobó la calidad?, en cuanto a la calidad, ¿cómo se comprobó?",0.0,13,7,04,2020
+PREGUNTA," ¿Pero un aproximado de cuánto material, cuánto insumo va a venir?",0.0,11,7,04,2020
+PREGUNTA, Sobre los hoteles COVID.,0.0,4,7,04,2020
+PREGUNTA," Muchas gracias. Buenas noches. Bianca Aguirre, de Notimex TV.",0.0,9,7,04,2020
+PREGUNTA,"Quiero preguntarle, hay seis estudiantes del Instituto Politécnico Nacional y del Instituto Tecnológico de Georgia quienes están creando prototipos de ventiladores. Ellos están aquí en México y quiero saber si ustedes van a acercarse con ellos, ya que los entrevistamos y nos dijeron que estos prototipos ya cuando estén terminados, que será el próximo viernes, costarán entre dos mil 500 y tres mil pesos.",0.0,64,7,04,2020
+PREGUNTA,Gracias.,0.0,1,7,04,2020
+PREGUNTA," Gracias, doctor, doctores. Tengo tres preguntas.",0.0,6,7,04,2020
+PREGUNTA,"Primero, empezando con el doctor Cortés, retomando un tema que quedó pendiente la semana pasada es: ya tienen un protocolo para centros de reclusión social, ¿pero ya hay lo mismo también para otros lugares donde están recluidas personas como las estancias migratorias?",0.0,42,7,04,2020
+PREGUNTA,"Y aunado a eso, ¿ya se han detectado casos de infección o de enfermedades entre las personas que están recluidas?",0.0,20,7,04,2020
+PREGUNTA,"Después, al doctor Alomía me gustaría preguntarle, por favor, si nos puede comentar, con los casos conocidos que hay hasta ahora en el país, ¿cuál es la tasa de incidencia?, ¿cuál es la tasa de ataque secundario que se ha detectado?, ¿en qué momento?",0.0,44,7,04,2020
+PREGUNTA,"Si es así, ¿se podrían hacer tamizajes serológicos para revisar posibles inmunidades?",0.0,12,7,04,2020
+PREGUNTA,"Y también, con respecto a los deudos, ¿hay planes para hacer pruebas post mórtem de personas que tuviesen cuadros similares, pero que no se hubiera confirmado un caso antes del fallecimiento?",0.0,31,7,04,2020
+PREGUNTA,"Y subsecretario, para usted también, si nos pudiera comentar sobre la literatura científica creciente que hay en el mundo que sugiere que hay un porcentaje importante de contagios presintomáticos o asintomáticos, y en ese caso qué implicaciones tiene para la respuesta epidemiológica de México, sobre todo de cara a la fase 3.",0.0,52,7,04,2020
+PREGUNTA, (Inaudible) ¿Sí se han incluido en este conteo?,0.0,8,7,04,2020
+PREGUNTA, ¿En estaciones migratorias?,0.0,3,7,04,2020
+PREGUNTA," Gracias, buenas tardes. Del Sistema Público de Radiodifusión.",0.0,8,7,04,2020
+PREGUNTA,"Dos preguntas. La primera, saber si la Secretaría de Salud tiene un registro de los mexicanos que residen en el extranjero y que han fallecido en el extranjero. Hoy en la mañana se comentaba que tan sólo en Nueva York hay 110 mexicanos que murieron.",0.0,45,7,04,2020
+PREGUNTA,"También otra pregunta para el doctor Cortés es si existen lineamientos para repatriar los cuerpos, porque debido a que se están registrando casos de mexicanos que han fallecido, pues… Bueno, esa sería la primera pregunta.",0.0,35,7,04,2020
+PREGUNTA," Sí, buenas tardes. De Excélsior.",0.0,5,7,04,2020
+PREGUNTA,"Doctor, hay una gran preocupación en los hospitales del IMSS de los estados como en el regional 6 de Gómez Palacio, desde donde se están enviando las muestras a la Ciudad de México, llegándose a tardar, nos dicen, en promedio unos cinco días en regresarlo, de hecho el periodista Javier Garza Ramos documentó que cuatro pacientes atendidos en esta clínica murieron antes de que llegaran los resultados.",0.0,67,7,04,2020
+PREGUNTA,"Y la pregunta aquí sería: ¿qué porcentaje de todas las muestras que se están haciendo en el país están enviándose a la Ciudad de México?, ¿y cuántos días se estarían tardando en promedio en regresar los resultados a estos estados?",0.0,40,7,04,2020
+PREGUNTA,"Y me dicen que particularmente las clínicas del IMSS es donde está sucediendo esto, doctor. Gracias.",0.0,16,7,04,2020
+PREGUNTA," Erick Hernández, diario Basta y Grupo Cantón.",0.0,7,7,04,2020
+PREGUNTA,"La pregunta sería: ¿al día de hoy cuál es el déficit de médicos, si en octubre de 2019 Zoé Robledo, el titular del IMSS, nos comentaba que había un déficit de 94 mil a nivel nacional?",0.0,36,7,04,2020
+PREGUNTA,"Igual, además de los tres mil nuevos médicos que se contrataron al día de hoy, ¿cuántos faltarían de acuerdo a la Organización para la Cooperación y el Desarrollo Económico? ¿cuál sería el número de médicos o personal que haría falta para hacer frente a la crisis?",0.0,46,7,04,2020
+PREGUNTA, Antes de que… ¿Cuántos pacientes en México se han curado de la enfermad? No tengo ese dato.,0.0,17,7,04,2020
+PREGUNTA," Alejandro Lelo de Larrea, de Círculo Digital.",0.0,7,7,04,2020
+PREGUNTA,"De manera muy concreta, el acuerdo en el Diario Oficial de la Federación en el que se dice que van a reactivar la industria acerera, cementera solamente para las obras del gobierno federal, las obras clave, emblemáticas del gobierno federal, aeropuerto Santa Lucía, Tren Maya, etcétera, no quiero mencionarlas.",0.0,49,7,04,2020
+PREGUNTA,"¿Eso le parece correcto?, ¿es una medida acorde con la emergencia sanitaria, señor subsecretario?",0.0,14,7,04,2020
+PREGUNTA,"Si me permite, ahorita una muy breve sobre la estadística. Gracias.",0.0,11,7,04,2020
+PREGUNTA," ¿Sería más grave pararlo que…?, ¿sería eso más grave, pararlo a que pueda haber contagiados?",0.0,15,7,04,2020
+PREGUNTA, ¿Pero no se corre riesgo?,0.0,5,7,04,2020
+PREGUNTA, ¿Pidió el presidente que no se pararan las obras y por eso ustedes decidieron tomar…?,0.0,15,7,04,2020
+PREGUNTA," Pero quisiera saber, puntualizar ¿se lo pidió el presidente?",0.0,9,7,04,2020
+PREGUNTA, Pero pareciera que fue un traje a la medida de los proyectos emblemáticos de este gobierno ¿no?,0.0,17,7,04,2020
+PREGUNTA," Rápido, ya nada más, ¿podríamos tener estadísticas, la tasa de mortalidad y la tasa de infectados y de enfermos por grupos de edad?, porque no la he podido ver en estos días.",0.0,32,7,04,2020
+PREGUNTA,"Creo yo que, por los cálculos que hice, hay mayor población de 65 y más, pero el número de infectados es más o menos equivalente a los 35, 45, 50 años.",0.0,31,7,04,2020
+PREGUNTA,¿Podríamos tener esa estadística?,0.0,4,7,04,2020
+PREGUNTA, Gracias.,0.0,1,7,04,2020

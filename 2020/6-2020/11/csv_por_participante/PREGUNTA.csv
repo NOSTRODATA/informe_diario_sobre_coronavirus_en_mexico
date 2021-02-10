@@ -1,0 +1,35 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Buenas noches. Liliana Noble, de Pulso Saludable.",0.0,7,11,06,2020
+PREGUNTA,"Doctor Gatell, ayer decía la doctora Oliva sobre los asintomáticos. Perdón que insista tanto al respecto, pero no sé cómo van a identificar, cómo van a diagnosticas a alguien que no tiene un síntoma evidente.",0.0,35,11,06,2020
+PREGUNTA,"Y lo menciono también porque salió una nota que algunos del equipo del maestro Zoé son asintomáticos, pero son positivos. ¿Cómo los encontraron entre todos estos pacientes que sí muestran síntomas?",0.0,31,11,06,2020
+PREGUNTA,"Y una segunda pregunta, si me lo permite. Doctor Alomía, ¿estos 55 mil 700 sospechosos de cuántas semanas, meses, días de retraso estamos hablando en la entrega de estos resultados?, que entendería que de alguna manera van a alterar las cifras, es decir, siempre se presentan algunas prospecciones, pero no son las finales y esto lo sabríamos si algún día termina este patógeno, y no sé si está bien decirle patógeno a este virus que tanto odiamos todos.",0.0,78,11,06,2020
+PREGUNTA,Gracias.,0.0,1,11,06,2020
+PREGUNTA," Y por ejemplo, si la prueba sí la tomaron bien, pero no la cuidaron, la transportaron adecuadamente, ustedes al momento de procesarla y que salen estas copias del ADN, del virus, ¿podría salir un falso positivo?, ¿eso puede pasar?",0.0,39,11,06,2020
+PREGUNTA, Gracias.,0.0,1,11,06,2020
+PREGUNTA, La cantidad no es calidad.,0.0,5,11,06,2020
+PREGUNTA, Gracias. Buenas noches.,0.0,3,11,06,2020
+PREGUNTA,"Ayer hablaba de las curvas por estado, vimos unas que sorprendentemente estaban bien como Veracruz y Guerrero, que es donde pensamos que podía haber problemas, pero le quería preguntar de dos que no entiendo o más bien quisiera ver cuál es el diagnóstico que tienen.",0.0,45,11,06,2020
+PREGUNTA,"Uno es Sinaloa, que es uno de los primeros cuatro estados donde hubo los primeros brotes, Sinaloa de hecho es el primer contagio y que vemos que simplemente va para arriba otra vez. Entonces, quería saber cuál es el diagnóstico que ustedes tienen. ¿Qué pasó o qué ha pasado en Culiacán, en Mazatlán?",0.0,53,11,06,2020
+PREGUNTA,"Y el otro es el caso del Valle de México, con el programa que nos entregaron y ahí tengo dos dudas:",0.0,21,11,06,2020
+PREGUNTA,"Uno es si en la Ciudad de México tenemos 8.5 millones de habitantes y en la zona conurbada 14, y sobre todo en la zona oriente no hay límites entre las colonias de un lugar a otro, ¿si este plan no se aplica en el Estado de México qué tan efectivo es la Ciudad de México?, porque finalmente la zona perimetral es donde está uno de los mayores focos de infección y se pasan de una colonia a otra, todos los sabemos.",0.0,82,11,06,2020
+PREGUNTA,"Y también ¿qué tanto…?, o sea, ¿cuál es el tiempo que se requiere para que puedan tener una estimación de que es una tendencia sostenida?, porque ayer que presentaban el plan y decíamos 18 días, dos semanas con semáforo rojo, de pronto algunos nos pueden parecer que es un poco lento, o sea, como hubiéramos pensado que el plan hubiera estado bien hace 10 días, pero no sé cuánto es ya una tendencia sostenida hacia abajo, hacia arriba, o como meseta.",0.0,81,11,06,2020
+PREGUNTA,Muchas gracias.,0.0,2,11,06,2020
+PREGUNTA," Sí, lo del Estado de México.",0.0,6,11,06,2020
+PREGUNTA, ¿Cuánto tiempo es para considerar que ya es una tendencia sostenida?,0.0,11,11,06,2020
+PREGUNTA," Qué tal, doctor Alomía, doctor Gatell. Carlos Guzmán, de ABA Noticias.",0.0,11,11,06,2020
+PREGUNTA,"Tres preguntas. La primera relacionada con lo que mencionaba de las redes sociales y que describía hace muchísimos años Ikram Antaki en su libro El país que no quería crecer, esta cuestión de que la gente no lee y lee mucho menos ciencia.",0.0,43,11,06,2020
+PREGUNTA,"Desgraciadamente en redes sociales las cosas se viralizan demasiado. Ayer le consultábamos, después de la conferencia de medios, sobre un medicamento que supuestamente médicos piden a Cofepris que se libere en las aduanas, que se llama tocilizumab, que es de, si mal no recuerdo, de Roche.",0.0,46,11,06,2020
+PREGUNTA,"¿Qué tan factible es este medicamento hoy de moda que supuestamente es el que es auxiliar para pacientes con COVID, con coronavirus?",0.0,22,11,06,2020
+PREGUNTA,"La segunda, si nos puede hablar el por qué en el caso de la Ciudad de México se incluyó a parte del acetaminofén, el paracetamol, se incluyó otro medicamento que estábamos viendo ayer con la doctora Oliva, si no mal recuerdo es el tipo Alka Seltzer o algo así.",0.0,49,11,06,2020
+PREGUNTA," Ácido… Y la tercera si nos podía hablar un poco del por qué le comentó la doctora Oliva o alguna otra instancia en los centros de salud que se toman las muestra para pacientes COVID, a este personal médico, de enfermeras, de infectólogos que están en estos centros de salud, no se les incluye en el bono COVID.",0.0,58,11,06,2020
+PREGUNTA,Gracias.,0.0,1,11,06,2020
+PREGUNTA, No se les está incluyendo en el bono COVID.,0.0,9,11,06,2020
+PREGUNTA, El ácido acetil salicílico.,0.0,4,11,06,2020
+PREGUNTA, Y sobre la cuestión del bono COVID.,0.0,7,11,06,2020
+PREGUNTA, Buenas noches. Poncho Gutiérrez.,0.0,4,11,06,2020
+PREGUNTA,"Dos preguntas, a ver si alcanzamos. La primera, que me hace pensar justamente lo de la aspirina, ¿por eso es que no se recomienda en lugar de paracetamol para dolor de cabeza?, ¿por este efecto de que evita la coagulación de la sangre?",0.0,43,11,06,2020
+PREGUNTA,"Es una pregunta que me acaba de surgir, porque estuve escuchando que en lugar de paracetamol algunas personas querían aspirina y se les decía que no. No sé si por ahí va esa teoría.",0.0,34,11,06,2020
+PREGUNTA, Muchas gracias.,0.0,2,11,06,2020
+PREGUNTA,"Y la segunda pregunta, en redes sociales está circulando una inquietud que a veces más que pregunta es hasta en forma de meme, esta idea de que el doctor Gatell dijo que la siguiente semana es el pico de la epidemia por octava vez ¿no?, y digo el pico, sólo puede haber un pico, no puede haber ocho.",0.0,58,11,06,2020
+PREGUNTA,Si nos puede aclarar a qué se refiere con esto para dejarlo bien explicado de una vez por todas. Gracias.,0.0,20,11,06,2020
+PREGUNTA," Entonces, es que el pico no es tanto como que en la misma curva haya redundantemente varios picos, sino diferentes curvas.",0.0,21,11,06,2020

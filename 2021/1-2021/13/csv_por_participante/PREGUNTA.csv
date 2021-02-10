@@ -1,0 +1,71 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA, Bienvenido al Sistema de Vacunación COVID-19.,0.0,6,13,01,2021
+PREGUNTA,Dentro del sistema podrás registrarte y confirmar tu cita para recibir vacunación COVID-19. Ingresa tu CURP o número de pasaporte y correo electrónico válido. El sistema muestra tu información.,0.0,29,13,01,2021
+PREGUNTA,"Debes llenar los datos de contacto, teléfono móvil a 10 dígitos y correo electrónico. Es importante que te asegures de ese sea el mismo con el que ingresaste al sistema.",0.0,30,13,01,2021
+PREGUNTA,"Indica si estás rolando en otra institución. De ser así, selecciona ‘Sí’ y elige el turno en la categoría a la que perteneces.",0.0,23,13,01,2021
+PREGUNTA,"Si llegaste a padecer COVID previamente, marca ‘Sí’ y en el calendario selecciona la fecha en la que iniciaron los síntomas, selecciona tú condición de salud y si tuviste algún antecedente de vacunación en el último mes.",0.0,37,13,01,2021
+PREGUNTA,"Finalmente, ingresa tus datos residenciales: código postal, colonia, número exterior e interior...",0.0,12,13,01,2021
+PREGUNTA,Da clic en la leyenda para dar tu consentimiento de ser vacunado. Da clic en ‘Registrar’.,0.0,16,13,01,2021
+PREGUNTA,Aparece en pantalla un mensaje de confirmación de registro exitoso. En esta pantalla se visualizan los datos generales de tu cita y un código Quintana Roo.,0.0,26,13,01,2021
+PREGUNTA,"Te sugerimos descargar tu pase de vacunación, que contiene los datos generales de tu vacunación, así como el código QR y el lugar de aplicación. Este pase de vacunación también es enviado a tu correo electrónico.",0.0,36,13,01,2021
+PREGUNTA,"Recuerda acudir a tu cita puntualmente y no olvides llevar una identificación oficial, así como tu número de folio, el cual puedes verificar en tu pase de vacunación.",0.0,28,13,01,2021
+PREGUNTA, Gobierno de México.,0.0,3,13,01,2021
+PREGUNTA, Bienvenido al Sistema de Vacunación COVID-19. Dentro del sistema podrás registrar al personal médico autorizado que recibirá vacuna COVID-19.,0.0,19,13,01,2021
+PREGUNTA,"Ingresa tu usuario y contraseña y da clic en ‘Acceder’. Para registrar a la persona que está recibiendo la vacuna puedes buscarla por su apellido paterno y nombre, CURP o número de pasaporte, en caso de personal médico extranjero, por el número de folio o escanear su código Quintana Roo.",0.0,50,13,01,2021
+PREGUNTA,"Da clic en ‘Buscar’. Automáticamente el sistema muestra los datos generales de la persona, da clic en su CURP para continuar.",0.0,21,13,01,2021
+PREGUNTA,"En la siguiente pantalla se muestra la fecha y horario de la aplicación de la vacuna. Finalmente, selecciona la fecha de aplicación, número de lote biológico y el número de lote del diluyente, así como el lugar dónde fue aplicada la vacunación.",0.0,42,13,01,2021
+PREGUNTA,Da clic en ‘Vacunar’. El sistema muestra en pantalla un aviso de confirmación.,0.0,13,13,01,2021
+PREGUNTA, Gobierno de México.,0.0,3,13,01,2021
+PREGUNTA," Gracias, buenas noches doctor. Karina Aguilar, del diario 24 Horas.",0.0,10,13,01,2021
+PREGUNTA,"Justo hablaba usted de estas personas, los siervos de la nación, que son jóvenes entusiastas y que son los que conocen más los territorios.",0.0,24,13,01,2021
+PREGUNTA,"¿Cómo van a vigilar la Secretaría de Salud o las autoridades pertinentes que a estos jóvenes talentosos y entusiastas pues no les gane el corazón político y vayan a caer en la tentación de intentar usar políticamente esta vacunación?, sobre todo porque va a coincidir la vacunación masiva con los procesos electorales, con las campañas electorales.",0.0,56,13,01,2021
+PREGUNTA,"Esa es la primera que le quiero hacer, por favor.",0.0,10,13,01,2021
+PREGUNTA, Gracias.,0.0,1,13,01,2021
+PREGUNTA,"También preguntarle: ¿cuándo van a terminar de vacunar al personal de salud, pero no sólo de las instituciones públicas, sino también a los privados?",0.0,24,13,01,2021
+PREGUNTA,"Por ejemplo, hay peticiones nos han llegado a la redacción del diario 24 Horas, las personas, los paramédicos de Cruz Roja que no han sido contemplados. Ellos han estado en esta pandemia, pues también llevando y trayendo a los pacientes en las ambulancias todos los días y nos preguntan cuándo ellos van a poderlo hacer, los privados y todos los que atienden pacientes y que no están en una institución pública.",0.0,71,13,01,2021
+PREGUNTA,"¿Y cuántos en total son, doctor?, ¿tiene usted esta cifra?",0.0,10,13,01,2021
+PREGUNTA, (Inaudible) entonces todas estas otras categorías no van a estar al 31 de enero vacunados.,0.0,15,13,01,2021
+PREGUNTA," Ahora, para la vacunación masiva ¿también va a haber un registro similar al que acaba de dar a conocer para el personal de salud?, ¿así va a operar la vacunación para adultos mayores y todos hacia abajo?",0.0,37,13,01,2021
+PREGUNTA, (Inaudible) mayores de 65.,0.0,4,13,01,2021
+PREGUNTA," Entonces, los de 60, o sea, ¿de 60 a 65 ahí qué va a pasar?",0.0,15,13,01,2021
+PREGUNTA,"Y luego los que no tenemos esa edad, que no somos adultos mayores, no estamos en los censos.",0.0,18,13,01,2021
+PREGUNTA, ¿Cómo vamos a operar?,0.0,4,13,01,2021
+PREGUNTA, Gracias.,0.0,1,13,01,2021
+PREGUNTA," Muy buenas noches a los dos. Blanca Valadez, de Milenio.",0.0,10,13,01,2021
+PREGUNTA,"Doctor, durante estos días de vacunación ¿cuántas personas han presentado reacciones alérgicas?, si nos puede comentar ¿y de qué tipo han sido?",0.0,22,13,01,2021
+PREGUNTA,"Mañana, tengo entendido, se cumpliría el día en que se tendrían que poner la segunda dosis, porque iniciaron el 24 de diciembre las personas que iniciaron.",0.0,26,13,01,2021
+PREGUNTA,"¿Se han detectado casos, como es el personal de alto riesgo, que se hayan contagiado de COVID a pesar de haberse aplicado la primera vacuna?, es decir, finalmente la inmunización sería al 100 por ciento con las dos. No sé si han detectado algunos casos de trabajadores que en ese proceso se contagiaron de COVID, ¿y qué se hace en esos casos?",0.0,62,13,01,2021
+PREGUNTA,"Y también preguntarle, ahorita que se está haciendo la vacunación masiva hay territorios difíciles no necesariamente por la ubicación geográfica, sino porque son zonas donde están dominados ciertos grupos delincuenciales. ¿Ahí cómo van a trabajar?, ¿cómo van a proteger a los brigadistas?, ¿cómo le van a hacer para que finalmente las personas accedan a la vacuna? Claro, es voluntaria, pero muchos de ellos no permiten que se pase a su territorio. Ese sería un punto y aparte, porque hay una zona, también la zona zapatista que nada tiene que ver con estos grupos, pero que también no permiten el acceso tan fácilmente.",0.0,102,13,01,2021
+PREGUNTA,Si me puede contestar esa y ya nada más le haría una pregunta más.,0.0,14,13,01,2021
+PREGUNTA," Reacciones adversas, ¿personal se ha contagiado de COVID?, y las zonas del territorio…",0.0,13,13,01,2021
+PREGUNTA, Nada más una precisión. ¿De esas 12 qué es lo que les pasó?,0.0,13,13,01,2021
+PREGUNTA,"Y a estas tres, bueno, ya sabemos la de la doctora, ¿al resto qué es lo que les pasó?",0.0,19,13,01,2021
+PREGUNTA, Le comentaba que mañana iniciaría la segunda dosis.,0.0,8,13,01,2021
+PREGUNTA, En ese lapso ¿han detectado casos de gente que por su trabajo se ha contagiado?,0.0,15,13,01,2021
+PREGUNTA, Le preguntaba sobre las zonas que están dominadas por los grupos.,0.0,11,13,01,2021
+PREGUNTA," Y también a estos grupos les tocaría, digo, finalmente.",0.0,9,13,01,2021
+PREGUNTA, Okey. Le cedo la palabra a mis compañeros.,0.0,8,13,01,2021
+PREGUNTA," Gracias, doctor. Buenas noches.",0.0,4,13,01,2021
+PREGUNTA,"Quiero preguntarle sobre los acuerdos y los retos a que se… bueno, que se identificaron durante el consejo, en primer punto.",0.0,21,13,01,2021
+PREGUNTA,"Luego le quiero preguntar, ahorita no hay fecha entonces para cuándo serían vacunados los médicos, enfermeras, el personal de salud de hospitales privados, tendríamos que esperar este censo. ¿Cómo en cuánto estimarían más o menos?",0.0,35,13,01,2021
+PREGUNTA,No tienen estimación de cuándo?,0.0,5,13,01,2021
+PREGUNTA," Y sobre los médicos que se quedaron sin poder ir a vacunarse porque estaban en áreas COVID, ¿cuántos fueron estos médicos?",0.0,21,13,01,2021
+PREGUNTA," Bueno, y ahora que arrancó ya la campaña de vacunación de forma masiva, el reto de la ultracongelación ¿cómo está? Usted hablaba de que había 165 ultracongeladores a nivel nacional. Por favor.",0.0,32,13,01,2021
+PREGUNTA, ¿Ya con estos ultracongeladores sería suficiente o piensan que van a poder adquirir…?,0.0,13,13,01,2021
+PREGUNTA, Gracias.,0.0,1,13,01,2021
+PREGUNTA,¿Algún otro acuerdo o reto que hayan identificado?,0.0,8,13,01,2021
+PREGUNTA," Buenas noches. Juan Hernández, del periódico Basta, de Grupo Cantón.",0.0,10,13,01,2021
+PREGUNTA,"Bueno, esto es una situación que ha venido saliendo en redes sociales y lo voy a sintetizar en dos cuestiones:",0.0,20,13,01,2021
+PREGUNTA,"La primera, son familias que nos dicen… Bueno, en repetidas ocasiones se ha hablado del tema de bares abiertos, restaurantes, fiestas clandestinas, reuniones familiares, incluso hace unos días hacíamos una denuncia de un torneo de fútbol que se estaba realizando en Iztapalapa y que lo estaban transmitiendo en vivo, se hizo la denuncia incluso en redes sociales y ese torneo se hizo y nunca, nunca, vaya, se… Ni llegó el operativo de seguridad.",0.0,73,13,01,2021
+PREGUNTA,"Las familias que nos hacen estos señalamientos nos dicen: ‘Bueno, ¿de qué sirve que nosotros nos estemos cuidando?, ¿de qué sirve que nosotros sigamos las indicaciones de la Secretaría de Salud si las autoridades que están encargadas de cuidarnos, las que están encargadas de velar por la seguridad de los ciudadanos no hacen nada?",0.0,54,13,01,2021
+PREGUNTA,"Y estamos hablando precisamente de estos municipios, de estas zonas en donde hay focos rojos, donde hay altos casos, no solamente de contagios, sino también de muertes, llámese Iztapalapa, llámese Nezahualcóyotl, todo lo que es esa colindancia, lo que nos llevó incluso a este debate de los que se pasan para un lado y para el otro lado.",0.0,58,13,01,2021
+PREGUNTA,"Pero esta es una reflexión de ciudadanos, de ciudadanos que están preocupados, que no se puede decir que tengan miedo, pero realmente están viendo que hacen esta pregunta.",0.0,28,13,01,2021
+PREGUNTA,¿Cuándo o qué especificaciones va a tener para que tanto el Estado de México como la Ciudad de México pasen a semáforo anaranjado?,0.0,23,13,01,2021
+PREGUNTA,Hace unos días un compañero preguntaba que si para el día 11 iba a regresar la Ciudad de México a por lo menos anaranjado.,0.0,24,13,01,2021
+PREGUNTA,"¿Ustedes cuándo estiman que regresará la Ciudad de México y el Estado de México a semáforo anaranjado?, ya ni siquiera vemos el amarillo y muchos menos el verde, ¿pero cuándo ustedes estimarían que podría llegar?",0.0,35,13,01,2021
+PREGUNTA,"Y una segunda rápida. De estas personas que se brincaron la fila, ¿cuántos ustedes tienen detectados? O sea, se hablaron de casos sonados, pero ¿realmente cuántos se encontraron detectados?",0.0,29,13,01,2021
+PREGUNTA,"Y bueno, obviamente se van a tener que poner la dosis, pero ¿a ellos ya se les han abierto procedimientos?, ¿qué va a pasar con estas personas?, porque también otra vez en redes sociales empezó a circular una noticia de precisamente de un artista, no voy a decir el nombre, pero de un artista y su hijo de música vernácula, de música ranchera que se vacunaron contra el COVID.",0.0,69,13,01,2021
+PREGUNTA,"Entonces no sé, yo no puedo decirlo, pero realmente… O sea, ni le vanos a hacer promoción, pero realmente ¿esto es cierto?, ¿qué está pasando ahí precisamente con esta carga de información o también podría decir también infodemia?, pero realmente son preocupaciones ciudadanas que salen a la luz del día.",0.0,50,13,01,2021
+PREGUNTA,Gracias.,0.0,1,13,01,2021
+PREGUNTA, (inaudible).,0.0,1,13,01,2021
+PREGUNTA, (Inaudible).,0.0,1,13,01,2021

@@ -1,0 +1,34 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Buenas tardes, ¿me puede decir su nombre?",0.0,7,9,07,2020
+PREGUNTA, ¿Cuántos años tiene?,0.0,3,9,07,2020
+PREGUNTA, ¿En qué cuidad vive?,0.0,4,9,07,2020
+PREGUNTA," Durante la epidemia usted salía, recibía visitas.",0.0,7,9,07,2020
+PREGUNTA, ¿Y con quién vive usted?,0.0,5,9,07,2020
+PREGUNTA, ¿Ellos sí salían a trabajar?,0.0,5,9,07,2020
+PREGUNTA, ¿Qué enfermedades tiene usted?,0.0,4,9,07,2020
+PREGUNTA, ¿Cuándo se empezó a sentir mal?,0.0,6,9,07,2020
+PREGUNTA, ¿Qué sintió?,0.0,2,9,07,2020
+PREGUNTA," Después de que empezó con los síntomas, ¿qué más hicieron?",0.0,10,9,07,2020
+PREGUNTA, ¿Cómo fue la toma de la muestra?,0.0,7,9,07,2020
+PREGUNTA, ¿Qué le recomienda las personas como usted para evitar el COVID?,0.0,11,9,07,2020
+PREGUNTA, ¿A qué le atribuye usted que se haya sentido mejor?,0.0,10,9,07,2020
+PREGUNTA, ¿Tiene algo más qué agregar?,0.0,5,9,07,2020
+PREGUNTA," Muchas gracias, doctor Gatell.",0.0,4,9,07,2020
+PREGUNTA,"Preguntarle sobre los trabajos de la Comisión Consultiva de Salud esta tarde, si nos puede dar algunos adelantos de lo que se vio en la reunión y los temas.",0.0,29,9,07,2020
+PREGUNTA,"Y a la doctora Barrón, si fueran tan amable, el teléfono que puso ahí es la Línea de la Vida, pero ¿habría un teléfono más directo para estos adultos mayores?, porque si bien ese es el muy útil, pero el menú el larguísimo. ¿Hubiera algún teléfono directo para estos adultos mayores a los que pudieran ayudarles?",0.0,56,9,07,2020
+PREGUNTA,Gracias.,0.0,1,9,07,2020
+PREGUNTA," Sólo una duda, ¿se homologará con esto de estado seguro…?",0.0,10,9,07,2020
+PREGUNTA," Muy buenas noches, doctora, doctores. Omar Quiroga de Reporte Crítico.",0.0,10,9,07,2020
+PREGUNTA,"Tengo una sugerencia para la presentación de las gráficas y dos preguntas, si me permiten.",0.0,15,9,07,2020
+PREGUNTA,"La sugerencia sería sobre las gráficas de ocupación hospitalaria y sería añadir una especie de distintivo, un color distinto, un asterisco, algo, en aquellas entidades donde se realice una intervención hospitalaria que modifique la capacidad, porque en su forma actual no permite determinar si los saltos, ya sea para arriba o para abajo, se deban a una intervención hospitalaria. Creo que podría ser útil esa información en ese par de gráficas.",0.0,71,9,07,2020
+PREGUNTA," Las preguntas. La primera sería sobre el estado del arte de la afectación que tiene el nuevo coronavirus sobre los órganos, digo, particular, pero no exclusivamente a los pulmones, porque digo, en los primeros meses de la pandemia se publicaron en algunos medios reconocidos el potencial daño profundo que puede tener y tal vez hasta permanente. Entonces no sé si nos pueda hablar un poco sobre eso, del estado actual de ese tipo de información.",0.0,75,9,07,2020
+PREGUNTA,"Y la segunda pregunta sería sobre las gráficas que han estado presentando últimamente de que en las que se nota, digo, todavía un aumento disminuido en la velocidad de los casos, pero una disminución pronunciada en la tasa de mortalidad, que es una noticia que llama poderosa y gratamente la atención, y me gustaría saber cuál es la interpretación técnica de estas cifras, de esta reducción de alrededor de 30 por ciento, o sea, que lo cual es impresionante.",0.0,79,9,07,2020
+PREGUNTA,"¿A qué se debe esta disminución?, si se están enfermando personas con menos comorbilidades, si se está haciendo algún otro tipo de tratamiento. La dexametasona me suena como algo que sucedió en este intervalo, si eso podría interpretarse como tal. ¿Cuál es su impresión al respecto?",0.0,46,9,07,2020
+PREGUNTA," Muy rápido una petición, doctor. Si nos podrían poner de nueva cuenta las gráficas que anteriormente mostraban el nivel de pandemia a nivel nacional.",0.0,24,9,07,2020
+PREGUNTA,"Estaba muy bien que lo haga por estados, pero para darle contexto a esta conferencia justamente, pues el panorama debería de ser nacional y no exclusivamente de estados o de municipios.",0.0,31,9,07,2020
+PREGUNTA,Gracias.,0.0,1,9,07,2020
+PREGUNTA," Muchas gracias, doctor. Daniel Blancas, de Crónica.",0.0,7,9,07,2020
+PREGUNTA,"Sólo le comparto dos retratos rápido. Analizando la base de datos de la Secretaría de Salud, que es muy detallada y nos metimos, ahora sí que a la esencia de los números, uno es: sólo el 69 por ciento de los fallecidos tuvieron acceso o pudieron llegar a las unidades de cuidados intensivos y a los ventiladores, es decir, más del 30 por ciento de los fallecidos en país, pese al esfuerzo, porque ustedes nos han hablado cotidianamente de lo que ha presentado comprar ventiladores y montar las unidades de terapia intensiva, pues el 69 por ciento de los fallecidos no llega a esas instancias.",0.0,105,9,07,2020
+PREGUNTA,"Y el otro retrato que me gustaría compartirle es relacionado con los niños. Ayer se rompió el récord de niños contagiados en el país, 191. Contrario a lo que nos ha comentado en los últimos días respecto a que ha aminorado a la situación en general en los niños ha repuntado.",0.0,51,9,07,2020
+PREGUNTA,"Sin alarmar, porque el tema de los niños es muy sensible, sigue siendo un porcentaje realmente bajo de los contagiados, pero sin alarmar a los padres, en junio había un promedio de 117 niños contagiados diarios, en los primeros ocho días de julio son 157 contagios diarios y el récord ayer, ya se lo mencionaba, el récord de contagios.",0.0,59,9,07,2020
+PREGUNTA,"Entonces, de estas dos realidades que le planteo, subsecretario, ¿cuál es la explicación técnica y científica?",0.0,16,9,07,2020

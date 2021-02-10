@@ -1,0 +1,48 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Qué tal, muy buenas tardes.",0.0,5,11,03,2020
+PREGUNTA,"Hoy el presidente dejó muy en claro que no hay un maquillaje de cifras; sin embargo, infectólogos, colegas de ustedes han mostrado mucha preocupación por el número de pruebas que se han realizado, que son muy pocas. Alejandro Macías, que fue coordinador de la pandemia H1N1, dice que si surgiera este brote, se desbordaría.",0.0,54,11,03,2020
+PREGUNTA,"Entonces, quiero saber cuántas pruebas se están haciendo, por qué no está aplicando como lo hizo Corea del Sur, aplicó 200 mil pruebas para detectar de manera inmediata y tiene la tasa más baja de mortalidad ahorita.",0.0,37,11,03,2020
+PREGUNTA,"Entonces, saber qué está pasando con las pruebas, por qué siguen con ese lineamiento de solamente con antecedentes de viajes y si esto podría revertirse finalmente al país.",0.0,28,11,03,2020
+PREGUNTA,"También preguntarles: ¿qué pasa con los embajadores?, ¿con la gente que trabaja en México, pero fuera del país en esos países?, ¿hay algunos infectados?, ¿hay casos que nos puedan comentar si ya tienen documentación de algunos que están justamente en una situación delicada y están en aislamiento?, ¿cuál es el reporte que nos puede dar?",0.0,55,11,03,2020
+PREGUNTA,"Y nada más por último saber sobre Hacienda, el propio presidente dijo que no se requerían recursos, que sería tomar 40 mil millones de pesos y de esa bolsa casi prácticamente se va a tomar todo.",0.0,36,11,03,2020
+PREGUNTA,"¿Cuánto se tomaría de esos 40 mil millones de pesos?, ¿se va a crear un fondo?",0.0,16,11,03,2020
+PREGUNTA,"¿Y por qué se van a hacer compras? Hacienda anunció que van a hacer compras. ¿Van a hacer, adelantar la licitación de compras? No sé si tiene que ver para fortalecer la reserva estratégica o bien para evitar un desabasto de medicamentos posterior.",0.0,43,11,03,2020
+PREGUNTA, (Inaudible),0.0,1,11,03,2020
+PREGUNTA," Alejandro Arcos, Plenilunia.",0.0,3,11,03,2020
+PREGUNTA,"La OMS ha convocado a la promoción de medidas que permitan la producción de materiales como cubrebocas, filtros y demás.",0.0,20,11,03,2020
+PREGUNTA,"Considerando la afortunada situación de México, ¿qué medidas se van a tomar para poder promover o ayudar a otros países que necesitaran estos materiales?",0.0,24,11,03,2020
+PREGUNTA,¿Y en investigación qué es lo que se está haciendo?,0.0,10,11,03,2020
+PREGUNTA,"Y, finalmente, nos están preguntando mucho con respecto a si puede aclarar cómo estamos protegiendo a nuestros médicos y personal de salud y con qué recursos materiales.",0.0,27,11,03,2020
+PREGUNTA, Lo de producción.,0.0,3,11,03,2020
+PREGUNTA, Tenemos información de que Trump ya restringió viajes de Europa hacia Estados Unidos durante 30 días.,0.0,16,11,03,2020
+PREGUNTA,"A mí me gustaría que, me imagino que ya lo ha repetido varias veces, pero que nos aclarara en qué momento la Secretaría de Salud del gobierno federal empezaría a limitar tal vez viajes y tal vez congregaciones tumultuosas de gente, tal vez que los niños no vayan a las escuelas. ¿En qué momento ya se llevaría a cabo este tipo de medidas extremas?",0.0,64,11,03,2020
+PREGUNTA,"Tengo entendido que es ya en una fase tres, pero si nos puede hablar de porcentajes tal vez de enfermos, ser muy específico en este sentido, porque hay mucha inquietud por parte de nuestros lectores en torno a esta situación.",0.0,40,11,03,2020
+PREGUNTA,Gracias.,0.0,1,11,03,2020
+PREGUNTA," Perdón, el tema del aeropuerto, ya que se declaró pandemia, ¿va a haber medidas? bueno, ya las que tienen, ¿se van a agregar otro tipo de medidas o va a continuar como hasta el momento se ha estado llevado a cabo los filtros?",0.0,43,11,03,2020
+PREGUNTA," Nuevo León dio a conocer que tenía un caso confirmado de coronavirus, en las estadísticas no lo vi, quería preguntar sobre este caso.",0.0,23,11,03,2020
+PREGUNTA,"Entiendo, entonces doctor Gatell, que las pruebas que está realizando México son las pruebas que tiene que realizar. Y si me puede actualizar el dato de cuántas pruebas está realizando.",0.0,30,11,03,2020
+PREGUNTA,"Me puede hablar también del modelo Centinela que va a encabezar México, por favor.",0.0,14,11,03,2020
+PREGUNTA,"Y cómo va el estudio de mercado para lo de la reserva estratégica, entiendo que también Hacienda lo estaba haciendo.",0.0,20,11,03,2020
+PREGUNTA,"También preguntarle sobre el pánico que ha creado entre la población esta declaración de la OMS y cómo puede afectar, más allá del que haya coronavirus, cómo puede afectar si hay saturación de hospitales, ¿qué está sucediendo?",0.0,37,11,03,2020
+PREGUNTA,"Y si, por ejemplo, Estados Unidos cancela vuelos procedentes de Europa, podrían conectar a través de México ¿eso podría implicar algún riesgo?",0.0,22,11,03,2020
+PREGUNTA,Muchas gracias.,0.0,2,11,03,2020
+PREGUNTA," Perdón, decía usted que todavía no se ve afectada la economía para el escenario uno, pero a nivel internacional ya hay una afectación. ¿Me puede ejemplificar cómo se afectaría?",0.0,29,11,03,2020
+PREGUNTA,Gracias.,0.0,1,11,03,2020
+PREGUNTA, ¿Pero México sí recibiría?,0.0,4,11,03,2020
+PREGUNTA, ¿Pero sí recibiría los vuelos?,0.0,5,11,03,2020
+PREGUNTA, Lo de las pruebas y el caso Nuevo León.,0.0,9,11,03,2020
+PREGUNTA, Sería el doceavo.,0.0,3,11,03,2020
+PREGUNTA," Le preguntaba referente sobre las pruebas que son las que se están realizando, las que se tienen que realizar; y si me actualiza el dato de cuántos se están realizando.",0.0,30,11,03,2020
+PREGUNTA,"Sobre este modelo Centinela que va a encabezar México, el estudio de mercado de Hacienda y la reserva estratégica y el pánico.",0.0,22,11,03,2020
+PREGUNTA," Perdón, entonces el cuadro se ajusta… Disculpe, es que se nos acaba el tiempo ¿el cuadro entonces se ajusta a 12?, solamente eso.",0.0,23,11,03,2020
+PREGUNTA," Entonces, este caso de Monterrey se ajustaría al corte de mañana.",0.0,11,11,03,2020
+PREGUNTA," Gracias, señor subsecretario, Jaime Hernández, del diario digital Bajo Palabra.",0.0,10,11,03,2020
+PREGUNTA,"Ahora que la Organización Mundial de la Salud ha declarado como pandemia el COVID-19 debido a su rápida expansión, ¿podría informarnos sobre el riesgo de reincidencia del virus en los pacientes que se han declarado como recuperados?, ya que de acuerdo al Cidar, Centro de Investigación y Política de Enfermedades Infecciosas, pacientes que han salido recuperados pueden ser portadores del virus después de cinco o 13 días.",0.0,67,11,03,2020
+PREGUNTA,¿Qué opinión le merece al respecto?,0.0,6,11,03,2020
+PREGUNTA," Buenas noches. Lizeth López Velarde, de Metropolitano Aguascalientes.",0.0,8,11,03,2020
+PREGUNTA,"Con esta nueva, bueno, con esta declaración de pandemia y la posibilidad de llegar a un segundo escenario, ¿en qué situación quedaría la Feria Nacional de San Marcos debido a la cantidad de personas que se congregan?",0.0,37,11,03,2020
+PREGUNTA," Melina Ochoa, de Uno Tv.",0.0,5,11,03,2020
+PREGUNTA, Es que ya no había venido.,0.0,6,11,03,2020
+PREGUNTA,"Muy buenas tardes, subsecretario. Ya nos explicó, hemos entendido en el escenario en el que estamos, pero a la gente en concreto ¿qué se les dice hoy, que la OMS elevó esto a una pandemia ante la desinformación en las redes sociales justamente a los audios de la gente que está en Europa y demás y también ante esto que está haciendo nuestro vecino?",0.0,64,11,03,2020
+PREGUNTA,"¿México pudiese restringir de alguna manera estos vuelos justamente a Italia, a España o algún punto de Europa?",0.0,18,11,03,2020
+PREGUNTA,Gracias.,0.0,1,11,03,2020
