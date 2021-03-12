@@ -1,0 +1,29 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Buenas noches. Liliana Noble, de Pulso Saludable.",0.0,7,10,03,2021
+PREGUNTA,"Doctor Gatell, qué bueno que ya está recuperándose de salud. Quisiera preguntarle, doctor, discúlpenme, por favor, pero es con la intención de que la gente conozca un poquito sobre la enfermedad, ¿qué le hizo suponer, en primera instancia, que usted estaba enfrentándose a la enfermedad de la COVID-19?",0.0,48,10,03,2021
+PREGUNTA,"Y en este mismo trayecto ¿qué le hizo pensar…? usted tiene una ventaja versus los que no somos médicos, pudo detectar a tiempo ese momento en el que la enfermedad podría llegarse a convertir en algo severo y usted buscó la ayuda de un hospital.",0.0,45,10,03,2021
+PREGUNTA,"Y, finalmente ¿cuál fue el tratamiento que le pusieron? si fue remdesivir o cuál otro fue.",0.0,16,10,03,2021
+PREGUNTA,Gracias y bienvenido.,0.0,3,10,03,2021
+PREGUNTA," Qué tal, muy buenas noches. Juan Hernández, del periódico Basta de Grupo Cantón.",0.0,13,10,03,2021
+PREGUNTA,"Doctor, muy buenas noches. Estoy pensando cómo hacer esta pregunta, pero mire. El día de hoy está circulando en varios… Bueno, está circulando una nota del periódico de circulación nacional en donde habla de su reaparición, pero habla de su reaparición en la colonia Condesa.",0.0,45,10,03,2021
+PREGUNTA,Quisiera de alguna manera saber ¿qué opinión le merece precisamente que estén invadiendo su vida privada?,0.0,16,10,03,2021
+PREGUNTA,"Este tipo de… ¿cómo se llama? de información, bueno, hoy esperábamos que reapareciera, reaparece, qué bien, pero de alguna manera, como que desvirtúa esta aparición que usted tiene después de haber pasado un episodio difícil de COVID-19.",0.0,37,10,03,2021
+PREGUNTA,"De antemano, pues alguien tiene que hacer esta pregunta y hoy me tocó a mí hacerla.",0.0,16,10,03,2021
+PREGUNTA,Muchas gracias.,0.0,2,10,03,2021
+PREGUNTA," Buenas noches, doctor Alomía; subsecretario López-Gatell. Otilia Carbajal, de La Razón.",0.0,11,10,03,2021
+PREGUNTA,"Primero, preguntarles ¿qué cantidad de vacunas se tienen en este momento almacenadas? Recuerdo que en conferencias anteriores daban alguna cifra de una reserva que tenían por si no llegaban las segundas dosis.",0.0,32,10,03,2021
+PREGUNTA, ¿Entonces cuántas vacunas serían en este momento las que están en este estado?,0.0,13,10,03,2021
+PREGUNTA, Gracias.,0.0,1,10,03,2021
+PREGUNTA,"También preguntarle, habían mencionado que después de los 14 días en promedio una persona ya no es contagiosa de COVID. ¿Cómo una persona podría saber si ya no tiene síntomas, como fue su caso?, ¿se tendría que volver a hacer una prueba para asegurarse de que ya es negativo y ya no puede contagiar?",0.0,54,10,03,2021
+PREGUNTA, Gracias.,0.0,1,10,03,2021
+PREGUNTA," Gracias, buenas noches. Buenas noches, doctor Alomía, lo saludo. Le mandamos un saludo al presidente Andrés Manuel López Obrador también con mucho respeto.",0.0,23,10,03,2021
+PREGUNTA,"Y doctor Hugo López-Gatell qué gusto, qué gusto nos da volver a verlo, qué gusto volver a tenerlo aquí presente, escucharlo, saber que está bien, dando muestras de vida como lo comentó aquí nuestro compañero.",0.0,35,10,03,2021
+PREGUNTA,"Estoy seguro que mucha gente, millones de mexicanos están muy contentos de tenerlo por aquí, mis queridos suscriptores todo el tiempo me decían: ‘Pregunta cómo está el doctor Hugo López-Gatell, pregunta cómo está el doctor’’. Qué bueno verlo aquí doctor.",0.0,40,10,03,2021
+PREGUNTA,"Y si me permite, con todo respeto, haciendo alusión a una máxima del doctor Patch Adams, comentar una frase muy mexicana aplicable para estos casos: ‘¿Ya ve, doctor? Por tomárselas frías’.",0.0,31,10,03,2021
+PREGUNTA,"Bueno, sin más por el momento me gustaría hacer una pregunta porque ya me extendí en este punto. Ya que una persona tuvo coronavirus, quisiera preguntarle para… No perdón, me confundí, para una persona que ya se vacunó, se aplicó la vacuna de coronavirus y para el momento en el que se pueda aplicar la segunda vacuna, la segunda dosis de esta vacuna, pudiera contraer el virus y al momento en el que le toque el calendario su segunda dosis estuviera contagiada, tuviera síntomas y estuviera activa con coronavirus, ¿se podría aplicar la vacuna en este caso, aunque tenga, esté infectado de coronavirus? ¿o tendría que esperarse a que se le pasaran los 10 días, la fecha y después vacunarse?, pero ya no estaría quizá aplicándose en su territorio el adulto mayor, en este caso, que están siendo vacunados, ya no estaría quizá aplicándose en su territorio, ¿cómo le podrían hacer aquí las personas que pudieran salir positivas?",0.0,158,10,03,2021
+PREGUNTA,"Muchas gracias. Bienvenido, doctor.",0.0,4,10,03,2021
+PREGUNTA," Bueno tenía tres, pero va a ser una.",0.0,8,10,03,2021
+PREGUNTA,"Yo quería… Soy Nury Fernández. Hola, Hugo ¿cómo estás?, qué bueno verte bien.",0.0,13,10,03,2021
+PREGUNTA,"La pregunta es la siguiente: hay esta situación en Brasil y en América del Sur en general de un rebrote, bueno, no sé si llamarle así directamente.",0.0,27,10,03,2021
+PREGUNTA,"Hoy la Organización Panamericana de la Salud hizo un llamado en este sentido y podemos ver que en otras zonas del mundo, en particular en el Mediterráneo Oriental y en Francia hay también indicadores de un aumento de la infección. No sé si estamos ante una posibilidad de una tercera oleada.",0.0,51,10,03,2021
+PREGUNTA,"Y la pregunta concreta sería si el acaparamiento de las vacunas y el hecho de que a estas zonas más pobres -América del Sur es uno de los lugares más desiguales del mundo, como han dicho aquí en la conferencia- el acaparamiento de las vacunas está influyendo en el hecho de que aparezca estos síntomas de rebrote. Eso es.",0.0,59,10,03,2021
