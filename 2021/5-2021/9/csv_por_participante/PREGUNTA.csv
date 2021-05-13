@@ -1,0 +1,41 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Hola, Muy buenas noches. Juan Hernández, de Diario Basta, de Grupo Cantón. ¿Sí me escuchan bien?",0.0,16,9,05,2021
+PREGUNTA,"Bueno, nada más para preguntarles, aprovechando que (falla de transmisión)",0.0,10,9,05,2021
+PREGUNTA," Hola, muy buenas tardes. Gracias, doctora Nucamendi.",0.0,7,9,05,2021
+PREGUNTA,"Bueno, para preguntarle, justamente mañana ya es 10 de mayo, es el segundo Día de las Madres que nos toca en pandemia. El año pasado las recomendaciones eran muy claras, muy estrictas de confinamiento total.",0.0,35,9,05,2021
+PREGUNTA,"¿Cuáles son las recomendaciones específicas de este año, que ha cambiado la situación por región la situación en el país?, por ejemplo, aquí en Sonora, yo me encuentro en Hermosillo y estamos en semáforo verde. ¿Cuáles son las recomendaciones específicaspara los festejos del Día de las Madres?",0.0,47,9,05,2021
+PREGUNTA," Sí, muchas gracias.",0.0,3,9,05,2021
+PREGUNTA,"Nada más otra pregunta, por favor, rapidito. Es si hay algún avance concluyente sobre la pertinencia de aplicar la vacuna en mujeres embarazadas y en mujeres lactando. Sé que hay algunos estudios que de hablan de que algunas vacunas ya se han aplicado y es recomendable, pero en algunos países. O sea, quisiera saber si hay algún avance, a propósito también del Día de las Madres.",0.0,66,9,05,2021
+PREGUNTA," Yo la levanté, doctora.",0.0,4,9,05,2021
+PREGUNTA," Qué tal, muy buenas noches. Son Blanca Valadez, reportera de Grupo Milenio.",0.0,12,9,05,2021
+PREGUNTA,"Tengo tres preguntas. Una tiene que ver con si tiene las estadísticas de las mujeres que lamentablemente han perdido la vida, mujeres embarazadas que han perdido la vida en esta pandemia, si nos puede dar ese dato.",0.0,37,9,05,2021
+PREGUNTA,"Y otra, tiene que ver con el grupo que se va a crear para atender las secuelas del síndrome pos-COVID, si ya tienen este grupo conformado.",0.0,26,9,05,2021
+PREGUNTA,"¿Y qué secuelas serían las más importantes que atenderían, además de las pulmonares?",0.0,13,9,05,2021
+PREGUNTA,"Y si nos puede decir cuánto le invertirían a este tipo de tratamientos, finalmente son sectores que quedaron ya muchos discapacitados después de esto.",0.0,24,9,05,2021
+PREGUNTA,Gracias.,0.0,1,9,05,2021
+PREGUNTA," Sí, por supuesto. Me refiero al recurso económico y también al recurso humano, considerando que ya viene el examen, entonces posiblemente parte de estas personas van a estar destinadas a la recuperación de personas que tienen el síndrome pos-COVID, pero saber si ya está aterrizado, planes proyectos específicos para las personas que han sido afectadas.",0.0,55,9,05,2021
+PREGUNTA," Exactamente, si nos puede dar cifras de las personas que han fallecido lamentablemente por esta pandemia, mujeres embarazadas, justamente si nos puede adelantar unos datos.",0.0,25,9,05,2021
+PREGUNTA,"Y cuando hace el llamado justamente de tener celebraciones virtuales, ¿esto se debe a que a pesar de que ya se vacunaron a la mayoría de adultos mayores todavía ellos están en riesgo o qué es lo que pasa ahí?",0.0,40,9,05,2021
+PREGUNTA,Gracias.,0.0,1,9,05,2021
+PREGUNTA," Y nada más, si nos puede adelantar datos de mortalidad materna por COVID.",0.0,13,9,05,2021
+PREGUNTA," Sí, doctora es que hay otros compañeros que no le saben picar, es dos veces, compañeros.",0.0,16,9,05,2021
+PREGUNTA,"Preguntarle, actualmente ¿cuánto está en riesgo la población?, ¿qué porcentaje de la población está en riesgo todavía de contagiarse con COVID?",0.0,21,9,05,2021
+PREGUNTA," ¿Este porcentaje de personas que ya tienen anticuerpos naturales de COVID, más los vacunados, podría decir que podrían evitar esta tercera ola?",0.0,22,9,05,2021
+PREGUNTA," Doctora, nada más me recuerda, ¿cuántas personas han fallecido, mujeres embarazadas por COVID?, es que no lo escuché, como que se bloqueó.",0.0,22,9,05,2021
+PREGUNTA," Muy amable, doctora.",0.0,3,9,05,2021
+PREGUNTA,INTERVENCIÓN: Compañeros nada más dos veces le pican al micrófono y con eso ya sale su voz.,0.0,17,9,05,2021
+PREGUNTA," Buenas noches, doctora.",0.0,3,9,05,2021
+PREGUNTA, Muchas gracias.,0.0,2,9,05,2021
+PREGUNTA,"Mire, le quiero preguntar sobre justo el tema de defunción materna por COVID, que es la principal causa de fallecimientos (falla de transmisión) es COVID, hay causas de fallecimientos por muerte materna, porque en embarazadas o de fallecimientos ¿qué porcentaje o todos se deberían a COVID?",0.0,46,9,05,2021
+PREGUNTA, (falla de transmisión),0.0,3,9,05,2021
+PREGUNTA," Ah, sí, le preguntaba, estamos hablando de casi la mitad corresponde a COVID-19. Mi pregunta es si (falla de transmisión) están pensando o han planeado (falla de transmisión)",0.0,28,9,05,2021
+PREGUNTA," Ahí doctora, ¿me escucha?",0.0,4,9,05,2021
+PREGUNTA," Le preguntaba si al ser casi la mitad de las mujeres embarazadas las que están muriendo por COVID, han considerado un grupo prioritario en la vacunación.",0.0,26,9,05,2021
+PREGUNTA," O sea, estoy entiendo, doctora, qué anunciarán la vacunación de mujeres embarazadas el próximo martes.",0.0,15,9,05,2021
+PREGUNTA," Bueno, no sé si nos puede abundar. ¿Hay otra estrategia de prevención para las mujeres embarazadas más allá de la vacunación que hayan diseñado en específico?",0.0,26,9,05,2021
+PREGUNTA," Ya por último quisiera recapitular, doctora. Decía que son 15 mil 968 embarazadas que han sido positivas a COVID, entiendo, desde que inició la pandemia hasta ahora.",0.0,27,9,05,2021
+PREGUNTA,Ahora ¿nos puede dar los datos desagregados de fallecimientos? En 2021 habla de 133 muertes de mujeres embarazadas por COVID ¿y en 2020 o también es un total?,0.0,28,9,05,2021
+PREGUNTA," Mil gracias, doctora.",0.0,3,9,05,2021
+PREGUNTA," Doctora, ¿podría precisar? Estas 50.8 defunciones por cada 100 mil, de acuerdo al documento que usted nos hace referencia ¿no es muy elevado con respecto a años pasados? Estoy viendo que se había logrado una disminución importante, incluso en el 2017 era de 35 por cada 100 mil, pero ahorita está muy elevado. Yo creo que es la tasa más alta que hemos tenido, más alta de mortalidad.",0.0,68,9,05,2021
+PREGUNTA, Exactamente.,0.0,1,9,05,2021
+PREGUNTA, Muchas gracias.,0.0,2,9,05,2021
